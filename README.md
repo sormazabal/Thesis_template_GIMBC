@@ -3,6 +3,7 @@ This a LaTex template for writing your thesis. The idea is that, if you want to,
 Yet, you won't have to worry about cumbersome (and time consuming!) formatting. You can just copy your text from another format and LaTex will format it beautifully. 
 
 If you have any questions about LaTex or how to use the template, please feel free to ask me (in person or by email). I'll be happy to help!
+If there are any problems with the template, you can open an issue and I will fix it as soon as possible.
 
 
 
