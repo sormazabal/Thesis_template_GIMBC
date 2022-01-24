@@ -7,6 +7,6 @@ If there are any problems with the template, you can open an issue and I will fi
 
 
 
-This template is based on SCUDO's PhD Thesis template, at Politecnico di Milano, and modified by Zow Ormazabal. I has a CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/
+This template is based on SCUDO's PhD Thesis template, at Politecnico di Milano, and modified by Zow Ormazabal. It has a CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/
 
 
